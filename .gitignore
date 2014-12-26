@@ -3,6 +3,6 @@ bin/
 bin-debug/
 bin-release/
 bin-release-temp/
-.settings/
-.project
-.actionScriptProperties
+#.settings/
+#.project
+#.actionScriptProperties

@@ -12,7 +12,7 @@ The scroll content, data list, data select component for AS3.
 
 ### ScrollView
 
-    The base class for other two. For displaying large content that overflow current visiable area. User can drag and scroll to see the full content.
+The base class for other two. For displaying large content that overflow current visiable area. User can drag and scroll to see the full content.
 
 - Bounce effect when interactive.
 - Inertial drag and move.
@@ -20,7 +20,7 @@ The scroll content, data list, data select component for AS3.
 
 ### ListView
 
-    For displaying the same kind large objects set in a list.
+For displaying the same kind large objects set in a list.
 
 - Variable height for different rows.
 - Different styles for different rows.
@@ -29,7 +29,7 @@ The scroll content, data list, data select component for AS3.
 
 ### SelectView
 
-    For displaying and selecting objects.
+For displaying and selecting objects.
 
 - Single or multiple selection.
 - Build-in limited total selection count.
